@@ -1,5 +1,0 @@
-[Rule]
-# > Pikpak
-DOMAIN-SUFFIX,mypikpak.com,Proxy
-GEOIP,CN,Domestic
-FINAL,Others,dns-failed
