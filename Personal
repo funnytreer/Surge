@@ -1,6 +1,5 @@
 [rule]
 # > PikPak
-USER-AGENT,PikPak*,Proxy
 DOMAIN-SUFFIX,mypikpak.com,Proxy
 
 GEOIP,CN,Domestic
